@@ -175,11 +175,8 @@ text-shadow: 40px 32px 8px #F3F4F6;
 <div id="container">
   <div id="cube" class="animate">
     <div><h1>
-    
-    
-    <a href="aray.php">
+     <a href="aray.php">
      TSI Group 1  </a></h1> </div>
-    
     <div><h1>
     
     TSI Group2</h1></div>
@@ -187,10 +184,7 @@ text-shadow: 40px 32px 8px #F3F4F6;
     TSI Group3</h1></div>
     <div><h1>  
    <a href="template.php"> 
-     
      TSI Group4 </h1></a>
-     
-     
      </div>
     <div><h1>TSI Group5</h1></div>
     <div><h1>TSI Group6</h1></div>
